@@ -1,2 +1,0 @@
-# useSWR
-useSWR sample code
