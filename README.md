@@ -1,2 +1,2 @@
-# recoil
-recoil sample code
+# useSWR
+useSWR sample code
