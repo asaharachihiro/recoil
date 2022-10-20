@@ -20,6 +20,7 @@ function App() {
       <div>図鑑番号：{data.id}</div>
       <div>なまえ：{data.name}</div>
       <img src={data.sprites.front_default} />
+      <img src={data.sprites.front_shiny} />
     </div>
   );
 }
